@@ -4,7 +4,7 @@ _Küsitluse eesmärgiks oli uurida õpistsenaariumide kavandamise vahendi LePlan
 
 _Vastuseid aktsepteeriti vahemikus 20. november kuni 13. detsember 2015, mille jooksul vastamise tähtaega pikendati kaks korda ja mõlemal korral saadeti meeldetuletus küsimustikule veel vastamata jätnud isikutele. Valimi moodustasid kokku 53 inimest, kellest küsimustikule vastas 33 (62,3%) ja osa keeldus vastamast, tuues põhjenduseks piisava kogemuse puudumise LePlanneri tarkvaraga._
 
-**Küsitluse ankeet:** [Õpistsenaariumide kavandamise vahend LePlanner (PDF)](https://github.com/romilrobtsenkov/ankeet/Õpistsenaariumide_kavandamise_vahend_LePlanner[ankeet].pdf)
+**Küsitluse ankeet:** [Õpistsenaariumide kavandamise vahend LePlanner (PDF)](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/ankeet/Õpistsenaariumide_kavandamise_vahend_LePlanner%5Bankeet%5D.pdf)
 
 **Andmeanalüüsi failid:**
 * [Excel](#Excel)
@@ -15,7 +15,7 @@ _Vastuseid aktsepteeriti vahemikus 20. november kuni 13. detsember 2015, mille j
 
 ## Excel
 
-xls, 76KB [Download](https://github.com/romilrobtsenkov/Excel/survey_39358_results.xls)
+xls, 76KB [Download](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/Excel/survey_39358_results.xls)
 
 ## R
 
