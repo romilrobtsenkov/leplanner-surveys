@@ -6,21 +6,17 @@ _Vastuseid aktsepteeriti vahemikus 20. november kuni 13. detsember 2015, mille j
 
 **Küsitluse ankeet:** [Õpistsenaariumide kavandamise vahend LePlanner (PDF)](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/ankeet/Õpistsenaariumide_kavandamise_vahend_LePlanner%5Bankeet%5D.pdf)
 
-**Andmefailid:**
-* [Excel](#Excel)
-* [R](#R)
-* [SPSS](#SPSS)
-
 **Lisainfo:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 
 ## Excel
 
-xls, 76KB [Lae alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/Excel/survey_39358_results.xls)
+survey_39358_results.xls, 76KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/Excel/survey_39358_results.xls)
 
 ## R
 
-R, 36KB [Lae alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/R/Surveydata_syntax.R)
-csv, 23KB [Lae alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/R/survey_39358_data_file.csv)
+Surveydata_syntax.R, 36KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/R/Surveydata_syntax.R)
+
+survey_39358_data_file.csv, 23KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/R/survey_39358_data_file.csv)
 
 1. lae alla mõlemad failid
 2. käivita R ja määra käsurealt failide asukoht kausta täpsusega ning lae andmefailid
@@ -30,4 +26,6 @@ setwd()
 source("Surveydata_syntax.R", encoding = "UTF-8")
 ```
 
-## SPSS
+## SPSS (Soovitan)
+
+survey_data.sav, 56KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/SPSS/survey_data.sav)
