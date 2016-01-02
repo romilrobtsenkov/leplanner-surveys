@@ -8,6 +8,10 @@ _Vastuseid aktsepteeriti vahemikus 20. november kuni 13. detsember 2015, mille j
 
 **Lisainfo:** Romil Rõbtšenkov, [romilr@tlu.ee](mailto:romilr@tlu.ee)
 
+## SPSS (Soovitan)
+
+survey_data.sav, 56KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/SPSS/survey_data.sav)
+
 ## Excel
 
 survey_39358_results.xls, 76KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/Excel/survey_39358_results.xls)
@@ -25,7 +29,3 @@ getwd()
 setwd()
 source("Surveydata_syntax.R", encoding = "UTF-8")
 ```
-
-## SPSS (Soovitan)
-
-survey_data.sav, 56KB [Laadi alla](https://raw.githubusercontent.com/romilrobtsenkov/leplanner-surveys/master/SPSS/survey_data.sav)
